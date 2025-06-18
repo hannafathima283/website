@@ -1,0 +1,26 @@
+body {
+background-color: rgb(139, 21, 21);
+}
+
+h1 {
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color: black;
+text-align: center;
+font-size: 50px;
+}
+
+.center {
+  min-height: 100vh; /* minimum height = screen height */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  }
+
+  .button {
+  background-color: #070000; /* Green */
+  border: none;
+  color: white;
+  padding: 12px 20px;
+  text-align: center;
+  font-size: 16px;
+  }
